@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Learning notes</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>最近的 10 條筆記 on Learning notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Research_Story</title>
+    <link>https://quartz.jzhao.xyz/Research_Story</link>
+    <guid>https://quartz.jzhao.xyz/Research_Story</guid>
+    <description><![CDATA[ Research Story as the Seminar slides concepts Problem you want to solve 1. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 02:55:46 GMT</pubDate>
+  </item><item>
+    <title>PINN Study</title>
+    <link>https://quartz.jzhao.xyz/PINN-Study</link>
+    <guid>https://quartz.jzhao.xyz/PINN-Study</guid>
+    <description><![CDATA[ PINN(Physics-informed Neural Network) Why PINN ? Experimental data is expensive Labeling data is time-consuming Incorporate governing equations directly into the loss function (e.g., heat conduction, Navier-Stokes for melt pool) , constraining the solution space, improving generalization with limite... ]]></description>
+    <pubDate>Sun, 18 Jan 2026 02:54:14 GMT</pubDate>
+  </item><item>
+    <title>NKUST-PINN Test records</title>
+    <link>https://quartz.jzhao.xyz/NKUST-PINN-Test-records</link>
+    <guid>https://quartz.jzhao.xyz/NKUST-PINN-Test-records</guid>
+    <description><![CDATA[ NKUST PINN Program test 架構 main.py smn.py What I’ve tested What need to be implemented?. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 02:53:56 GMT</pubDate>
+  </item><item>
+    <title>DED_-_Multi-materials_deposition_paper_survey</title>
+    <link>https://quartz.jzhao.xyz/DED_-_Multi-materials_deposition_paper_survey</link>
+    <guid>https://quartz.jzhao.xyz/DED_-_Multi-materials_deposition_paper_survey</guid>
+    <description><![CDATA[ DED - Multi-materials deposition paper survey 高熵合金(High engtropy alloys, HEAs) 通常是由五種或五種以上等量或相對比例金屬形成的新型合金。名為「高熵合金」是因為當混合物中存在大量元素混合時的熵增加實質上更高，並且比例更接近相等。 國內最為知名的為清華大學 材料系的葉蔚均教授 www.dropbox.com/scl/fi/yeliomloi41xjmlv7daqx/Nature.pdf What is the characteristics of HEAs ? High-entropy effect Severe lat... ]]></description>
+    <pubDate>Sun, 18 Jan 2026 02:48:31 GMT</pubDate>
+  </item><item>
+    <title>academic skills</title>
+    <link>https://quartz.jzhao.xyz/academic-skills</link>
+    <guid>https://quartz.jzhao.xyz/academic-skills</guid>
+    <description><![CDATA[ Academic skills Dissertation Defense you should look this video Takeouts know your committee know your topics 研究主題是什麼？ 是什麼原因驅使你開始研究這個問題 研究的主要概念是什麼？ 你發現了什麼？ 你的研究重點突破/應用在那？ 應該帶一本論文的副本現場給自己作為參考翻閱 practice 設想一些問題, 並且想一下你要如何回答它，並且練習這些回答 如果是需要簡報的狀況, 你應該要 設想一些可能的技術性問題, 播放或是硬體上的問題 有些圖表如果不好用投影片呈現的可以準備手稿資料給評委... ]]></description>
+    <pubDate>Tue, 23 Dec 2025 05:27:59 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
