@@ -3,7 +3,7 @@
 node_modules
 docs
 prof
-quartz
+public/ 
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
