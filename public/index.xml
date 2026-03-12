@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Learning notes</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>最近的 10 條筆記 on Learning notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>review after classes</title>
+    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98/viscous-fluid-flow/review-after-classes</link>
+    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98/viscous-fluid-flow/review-after-classes</guid>
+    <description><![CDATA[ review after classes Sep.10th cross product rule 不熟 en.wikipedia.org/wiki/Vector_calculus_identities vector calculus Vector calculus lector - Vector Operators: Grad, Div and Curl Vector calculus Identities no slip condition : 一種存在於固液邊界處的邊界條件。 在固體邊界處，黏性流體的體積速度為零 更準確的說 是兩者無相對運動, 相對速度為零 而且是在流體為黏性流體的條件下... ]]></description>
+    <pubDate>Fri, 13 Feb 2026 12:12:25 GMT</pubDate>
+  </item><item>
+    <title>[PINN]  DED Simulation (3D case)</title>
+    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/%5BPINN%5D--DED-Simulation-(3D-case)</link>
+    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/%5BPINN%5D--DED-Simulation-(3D-case)</guid>
+    <description><![CDATA[ Governing Equations 1. ]]></description>
+    <pubDate>Thu, 12 Feb 2026 15:38:05 GMT</pubDate>
+  </item><item>
+    <title>DED &amp; SINDy</title>
+    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/DED--and--SINDy</link>
+    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/DED--and--SINDy</guid>
+    <description><![CDATA[ DED &amp; SINDy the questions you should answer Manufacturing Context : 目前製造方法中使用DED 的應用情況? Data Type: 你要使用什麼樣的資料來處理? 你利用那些資料來做為訓練或解析之用? 這些資料的品質如何? 資料的類型有什麼? Data source (experiment / simulation) sample size or data volume data collection method noise level Process Parameters: 製程中的那些參數是你在意的? Methodo... ]]></description>
+    <pubDate>Sun, 01 Feb 2026 21:58:23 GMT</pubDate>
+  </item><item>
+    <title>Academic skills </title>
+    <link>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/academic-skills</link>
+    <guid>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/academic-skills</guid>
+    <description><![CDATA[ Academic skills Dissertation Defense you should look this video Takeouts know your committee know your topics 研究主題是什麼？ 是什麼原因驅使你開始研究這個問題 研究的主要概念是什麼？ 你發現了什麼？ 你的研究重點突破/應用在那？ 應該帶一本論文的副本現場給自己作為參考翻閱 practice 設想一些問題, 並且想一下你要如何回答它，並且練習這些回答 如果是需要簡報的狀況, 你應該要 設想一些可能的技術性問題, 播放或是硬體上的問題 有些圖表如果不好用投影片呈現的可以準備手稿資料給評委... ]]></description>
+    <pubDate>Sat, 24 Jan 2026 09:13:00 GMT</pubDate>
+  </item><item>
+    <title>Systematic literature review (SLR)</title>
+    <link>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/Systematic-literature-review-(SLR)</link>
+    <guid>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/Systematic-literature-review-(SLR)</guid>
+    <description><![CDATA[ Systematic literature review (SLR) 系統性文獻回顧的架構 回顧文獻與原創文章的架構其實差不多，都需要包含以下幾種內容 標題 title 摘要 abstract 引言 introduction 研究方法 methods 結果 results 討論 discussion 參考文獻 references 系統性文獻回顧的協定(protocol) 根據美國國立衛生研究院(National Institute of Health,NIH) 協定可以看成是文獻回顧的路徑圖 Protocol 包含: 搜索的關鍵字 搜索的策略 篩選的流程 提取的數據 或可參考 PRISMA ... ]]></description>
+    <pubDate>Sat, 24 Jan 2026 08:54:53 GMT</pubDate>
+  </item><item>
+    <title>DED_-_Multi-materials_deposition_paper_survey</title>
+    <link>https://quartz.jzhao.xyz/DED_-_Multi-materials_deposition_paper_survey</link>
+    <guid>https://quartz.jzhao.xyz/DED_-_Multi-materials_deposition_paper_survey</guid>
+    <description><![CDATA[ DED - Multi-materials deposition paper survey 高熵合金(High engtropy alloys, HEAs) 通常是由五種或五種以上等量或相對比例金屬形成的新型合金。名為「高熵合金」是因為當混合物中存在大量元素混合時的熵增加實質上更高，並且比例更接近相等。 國內最為知名的為清華大學 材料系的葉蔚均教授 www.dropbox.com/scl/fi/yeliomloi41xjmlv7daqx/Nature.pdf What is the characteristics of HEAs ? High-entropy effect Severe lat... ]]></description>
+    <pubDate>Sun, 18 Jan 2026 06:52:21 GMT</pubDate>
+  </item><item>
+    <title>Research_Story</title>
+    <link>https://quartz.jzhao.xyz/Research_Story</link>
+    <guid>https://quartz.jzhao.xyz/Research_Story</guid>
+    <description><![CDATA[ Research Story as the Seminar slides concepts Problem you want to solve 1. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 06:52:21 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 06:52:21 GMT</pubDate>
+  </item><item>
+    <title>PINN Study</title>
+    <link>https://quartz.jzhao.xyz/PINN-Research/PINN-Study</link>
+    <guid>https://quartz.jzhao.xyz/PINN-Research/PINN-Study</guid>
+    <description><![CDATA[ PINN(Physics-informed Neural Network) Why PINN ? Experimental data is expensive Labeling data is time-consuming Incorporate governing equations directly into the loss function (e.g., heat conduction, Navier-Stokes for melt pool) , constraining the solution space, improving generalization with limite... ]]></description>
+    <pubDate>Sun, 18 Jan 2026 02:54:14 GMT</pubDate>
+  </item><item>
+    <title>NKUST-PINN Test records</title>
+    <link>https://quartz.jzhao.xyz/PINN-Research/NKUST-PINN-Test-records</link>
+    <guid>https://quartz.jzhao.xyz/PINN-Research/NKUST-PINN-Test-records</guid>
+    <description><![CDATA[ NKUST PINN Program test 架構 main.py smn.py What I’ve tested What need to be implemented?. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 02:53:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
