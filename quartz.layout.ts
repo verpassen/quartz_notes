@@ -5,7 +5,25 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // data-repo
+      repo: 'verpassen/quartz_notes',
+      // data-repo-id
+      repoId: 'R_kgDOQ8CKiQ',
+      // data-category
+      category: 'Announcements',
+      // data-category-id
+      categoryId: 'DIC_kwDOQ8CKic4C4vTe',
+      themeUrl: "https://example.com/static/giscus", // 对应 quartz/static/giscus/
+      lightTheme: "light-theme", // 对应 quartz/static/giscus/light-theme.css
+      darkTheme: "dark-theme", // 对应 quartz/static/giscus/dark-theme.css
+    }
+  }),
+
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
