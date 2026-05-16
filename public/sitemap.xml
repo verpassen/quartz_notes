@@ -1,6 +1,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/DED-%E7%9B%B8%E9%97%9C%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%BA%90</loc>
+    <lastmod>2026-02-15T01:01:19.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/DED-Research/DED_-_Multi-materials_deposition_paper_survey</loc>
     <lastmod>2026-03-19T12:25:35.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/Literature-reading-notes/%5BReading-notes%5D-Process-Analysis-of-laser-beam-cla</loc>
+    <lastmod>2025-04-20T03:28:47.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/Maragoni-effect</loc>
+    <lastmod>2026-01-18T00:46:49.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/Neural-Networks/%5BPINN%5D--DED-Simulation-(3D-case)---%E7%A0%94%E7%A9%B6%E9%80%B2%E5%BA%A6</loc>
+    <lastmod>2026-03-27T14:04:09.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/Nurbs-curve(Non-uniform-rational-B-spline-curve)</loc>
+    <lastmod>2026-01-12T05:34:03.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/WAAM-%E7%9B%B8%E9%97%9C%E8%B3%87%E6%BA%90</loc>
+    <lastmod>2024-12-29T00:32:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/DED-Research/%5BDED-%E8%AA%AA%E6%98%8E%E6%96%87%E6%AA%94%5D-%E9%9B%B7%E5%B0%84%E5%AE%89%E5%85%A8</loc>
+    <lastmod>2025-12-16T00:46:46.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Ph-D/1st-semester/ANN-Framework-and-FEM</loc>
     <lastmod>2025-02-21T15:40:18.000Z</lastmod>
@@ -202,4 +223,16 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2026-03-19T12:25:35.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/software/Programming/AI-%E5%B7%A5%E5%85%B7</loc>
+    <lastmod>2026-02-10T23:55:20.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/software/Programming/LASSO-and-Ridge</loc>
+    <lastmod>2026-04-01T14:03:29.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/software/Programming/Overfitting--and--udnerfitting</loc>
+    <lastmod>2026-04-02T05:01:41.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/software/Programming/Python/Multithread/%5BPython%5D---PyQt---QThread</loc>
+    <lastmod>2024-12-18T15:35:12.000Z</lastmod>
   </url></urlset>

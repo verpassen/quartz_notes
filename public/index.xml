@@ -6,6 +6,24 @@
       <description>最近的 10 條筆記 on Learning notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Overfitting &amp; udnerfitting</title>
+    <link>https://quartz.jzhao.xyz/software/Programming/Overfitting--and--udnerfitting</link>
+    <guid>https://quartz.jzhao.xyz/software/Programming/Overfitting--and--udnerfitting</guid>
+    <description><![CDATA[ Overfitting &amp; udnerfitting Model’s capacity is its ability to fit a wide variety of functions 對於模型的假設架構，會影響到所謂的Hypothesis space 例如，將迴歸函數從線性改為高次多項式，可以增加hypothesis ，同時可以讓模型對數據有更高的capacity 意思是指增加模型的參數數量囉? 對， you can increase the depth and the width of the neural network or change the connection and... ]]></description>
+    <pubDate>Thu, 02 Apr 2026 05:01:41 GMT</pubDate>
+  </item><item>
+    <title>LASSO and Ridge </title>
+    <link>https://quartz.jzhao.xyz/software/Programming/LASSO-and-Ridge</link>
+    <guid>https://quartz.jzhao.xyz/software/Programming/LASSO-and-Ridge</guid>
+    <description><![CDATA[ LASSO(Least absolute shrinkage and selection operator) 迴歸分析是什麼? 最常見的表示 B為我們量測觀察到的數值(矩陣)，A代表我們覺得可能有相關影響的特徵 X則是想要求得的關係 AX=B 為什麼需要正則化? 為了防止過擬合，來給目標函數加上限制，或是在建立的過程直接忽略不重要的特徵.。也就是讓上述式子中的X盡可能的稀疏，允許為零的項存在(代表忽略那些不重要的項次)，最終的X也就代表了A特徵中，與量測的數值B相關性最高的。 正則化又會分成兩種, 一個是 L1 , 一個是L2 L1 Norm Lasso 限制整個方程式的總特徵數，丟棄相對不重... ]]></description>
+    <pubDate>Wed, 01 Apr 2026 14:03:29 GMT</pubDate>
+  </item><item>
+    <title>[PINN]  DED Simulation (3D case) - 研究進度</title>
+    <link>https://quartz.jzhao.xyz/DED-Research/Neural-Networks/%5BPINN%5D--DED-Simulation-(3D-case)---%E7%A0%94%E7%A9%B6%E9%80%B2%E5%BA%A6</link>
+    <guid>https://quartz.jzhao.xyz/DED-Research/Neural-Networks/%5BPINN%5D--DED-Simulation-(3D-case)---%E7%A0%94%E7%A9%B6%E9%80%B2%E5%BA%A6</guid>
+    <description><![CDATA[ Governing Equations 1. ]]></description>
+    <pubDate>Fri, 27 Mar 2026 14:04:09 GMT</pubDate>
+  </item><item>
     <title>DED_-_Multi-materials_deposition_paper_survey</title>
     <link>https://quartz.jzhao.xyz/DED-Research/DED_-_Multi-materials_deposition_paper_survey</link>
     <guid>https://quartz.jzhao.xyz/DED-Research/DED_-_Multi-materials_deposition_paper_survey</guid>
@@ -24,47 +42,29 @@
     <description><![CDATA[ review after classes Sep.10th cross product rule 不熟 en.wikipedia.org/wiki/Vector_calculus_identities vector calculus Vector calculus lector - Vector Operators: Grad, Div and Curl Vector calculus Identities no slip condition : 一種存在於固液邊界處的邊界條件。 在固體邊界處，黏性流體的體積速度為零 更準確的說 是兩者無相對運動, 相對速度為零 而且是在流體為黏性流體的條件下... ]]></description>
     <pubDate>Thu, 12 Mar 2026 13:16:15 GMT</pubDate>
   </item><item>
+    <title>DED 人員的教育訓練資料</title>
+    <link>https://quartz.jzhao.xyz/DED-Research/DED-%E7%9B%B8%E9%97%9C%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%BA%90</link>
+    <guid>https://quartz.jzhao.xyz/DED-Research/DED-%E7%9B%B8%E9%97%9C%E7%B6%B2%E8%B7%AF%E8%B3%87%E6%BA%90</guid>
+    <description><![CDATA[ DED 人員的教育訓練資料 蒐集一些可以給剛接觸的人學習的公開免費資訊 閱讀 Directed energy deposition(DED) Process_state of the art Hogonas handbook 中文網站 南極熊 3D科學谷 中國增材製造產業聯盟 昱竑國際 - DED 介紹 影片 Optomec 產品介紹 - 英文 Optomec 產品介紹 - 日/英 問題 如何把AM所需的各種技能概念有系統地教給學習者? [AM Skill Roadmap] 課程網站 金屬中心訓練課程 工研院課程網頁 相關筆記. ]]></description>
+    <pubDate>Sun, 15 Feb 2026 01:01:19 GMT</pubDate>
+  </item><item>
     <title>[PINN]  DED Simulation (3D case)</title>
     <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/%5BPINN%5D--DED-Simulation-(3D-case)</link>
     <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/%5BPINN%5D--DED-Simulation-(3D-case)</guid>
     <description><![CDATA[ Governing Equations 1. ]]></description>
     <pubDate>Thu, 12 Feb 2026 15:38:05 GMT</pubDate>
   </item><item>
+    <title>AI 工具</title>
+    <link>https://quartz.jzhao.xyz/software/Programming/AI-%E5%B7%A5%E5%85%B7</link>
+    <guid>https://quartz.jzhao.xyz/software/Programming/AI-%E5%B7%A5%E5%85%B7</guid>
+    <description><![CDATA[ AI 工具 會議工具 Granola AI會議筆記工具，自動記錄、轉錄會議內容並整理成重點筆記，節省會後整理時間。 Wispr Flow 全應用程式適用的即時語音轉文字工具，讓您在任何程式中都能使用語音輸入。 [Chrome + ViiTor ] 利用 chrome 開啟 teams 會議室，並且利用chrome 外掛 viitor 及時翻譯語音，比起原本內建的翻譯，可以複製下載翻譯後的文字(雙語) 圖表 Napkin 音樂 Mubert Data version control dvc.org/ 用來管理使用在訓練模型的資料，包含影像、圖片、影片、文字檔案等 AI Benchmark www... ]]></description>
+    <pubDate>Tue, 10 Feb 2026 23:55:20 GMT</pubDate>
+  </item><item>
     <title>DED &amp; SINDy</title>
     <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/DED--and--SINDy</link>
     <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/DED--and--SINDy</guid>
     <description><![CDATA[ DED &amp; SINDy the questions you should answer Manufacturing Context : 目前製造方法中使用DED 的應用情況? Data Type: 你要使用什麼樣的資料來處理? 你利用那些資料來做為訓練或解析之用? 這些資料的品質如何? 資料的類型有什麼? Data source (experiment / simulation) sample size or data volume data collection method noise level Process Parameters: 製程中的那些參數是你在意的? Methodo... ]]></description>
     <pubDate>Sun, 01 Feb 2026 21:58:23 GMT</pubDate>
-  </item><item>
-    <title>Academic skills </title>
-    <link>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/academic-skills</link>
-    <guid>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/academic-skills</guid>
-    <description><![CDATA[ Academic skills Dissertation Defense you should look this video Takeouts know your committee know your topics 研究主題是什麼？ 是什麼原因驅使你開始研究這個問題 研究的主要概念是什麼？ 你發現了什麼？ 你的研究重點突破/應用在那？ 應該帶一本論文的副本現場給自己作為參考翻閱 practice 設想一些問題, 並且想一下你要如何回答它，並且練習這些回答 如果是需要簡報的狀況, 你應該要 設想一些可能的技術性問題, 播放或是硬體上的問題 有些圖表如果不好用投影片呈現的可以準備手稿資料給評委... ]]></description>
-    <pubDate>Sat, 24 Jan 2026 09:13:00 GMT</pubDate>
-  </item><item>
-    <title>Systematic literature review (SLR)</title>
-    <link>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/Systematic-literature-review-(SLR)</link>
-    <guid>https://quartz.jzhao.xyz/Ph-D/%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C/Systematic-literature-review-(SLR)</guid>
-    <description><![CDATA[ Systematic literature review (SLR) 系統性文獻回顧的架構 回顧文獻與原創文章的架構其實差不多，都需要包含以下幾種內容 標題 title 摘要 abstract 引言 introduction 研究方法 methods 結果 results 討論 discussion 參考文獻 references 系統性文獻回顧的協定(protocol) 根據美國國立衛生研究院(National Institute of Health,NIH) 協定可以看成是文獻回顧的路徑圖 Protocol 包含: 搜索的關鍵字 搜索的策略 篩選的流程 提取的數據 或可參考 PRISMA ... ]]></description>
-    <pubDate>Sat, 24 Jan 2026 08:54:53 GMT</pubDate>
-  </item><item>
-    <title>[Reading notes] thermal field prediction in DED manufacturing process using Arti</title>
-    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%5BReading-notes%5D-thermal-field-prediction-in-DED-ma</link>
-    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%5BReading-notes%5D-thermal-field-prediction-in-DED-ma</guid>
-    <description><![CDATA[ [Reading notes] thermal field prediction in DED manufacturing process using Artificial Neural network 利用 fem 的結果當作 ANN model 的輸入資料 模擬過程為了更多的資料, 設定了不同的雷射功率以及不同的類神經層數 所以目前看起來只要設定好一個模擬設定的模型 修改一些參數, 輸出過程中(retrieve from the simulation) 的資料 就可以得到很多資料 然後在讓 類神經網路模型去學習接著預測 問題 沒有和實際的實驗去比對 沒有其他模型的參考 預測準確度的標準是什... ]]></description>
-    <pubDate>Tue, 13 Jan 2026 00:14:50 GMT</pubDate>
-  </item><item>
-    <title>Research Progress</title>
-    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/Research-Progress</link>
-    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/Research-Progress</guid>
-    <description><![CDATA[ Research Progress Openfoam Environment buildup Install Openfoam , paraview and learning PINN run a script 目標是可以針對某個著名的 CFD 的問題去處理和驗證 Using PINN to solve navier stoke equation Workflow Current progress ode fitting by pytorch pip install torch pip install matplotlib !!! 目前照抄範例的狀態, 後續找一個二維的微分方程做一次試試看 找... ]]></description>
-    <pubDate>Mon, 12 Jan 2026 21:24:55 GMT</pubDate>
-  </item><item>
-    <title>review before final</title>
-    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98/viscous-fluid-flow/review-before-final</link>
-    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98/viscous-fluid-flow/review-before-final</guid>
-    <description><![CDATA[ review before final Energy spectrum meaning fully developed turbulent channel flow diagram derivation of the Reynold stress term what is the physical meaning of this term Non diemensional parameters the common parameters . ]]></description>
-    <pubDate>Sun, 11 Jan 2026 21:45:11 GMT</pubDate>
   </item>
     </channel>
   </rss>
