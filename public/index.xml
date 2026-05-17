@@ -6,6 +6,18 @@
       <description>最近的 10 條筆記 on Learning notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>DFAM Methodology</title>
+    <link>https://quartz.jzhao.xyz/DED-Research/DFAM-Methodology-1</link>
+    <guid>https://quartz.jzhao.xyz/DED-Research/DFAM-Methodology-1</guid>
+    <description><![CDATA[ DFAM Methodology {width=50%} Dual DFAM 分三大類方法 Opportunistic approach restrictive approach Dual approach 又可以分成兩種不同的類型 Functional design Data-driven design 兩者關係定義可以看下方的這個說明圖 以Functional design 經典的減重情境為例 我們給予模型定義相關的參數條件，設計空間，並把 依據模擬或是實驗結果來評估，這些不同的參數最終得到的性能孰優孰劣 再經過最佳化演算法，得到一組於設計空間中相對較佳的參數結果。 Tech tree 列... ]]></description>
+    <pubDate>Sun, 17 May 2026 00:59:51 GMT</pubDate>
+  </item><item>
+    <title>Pooling rule </title>
+    <link>https://quartz.jzhao.xyz/Ph-D/%E5%AF%A6%E9%A9%97%E8%A6%8F%E5%8A%83/Pooling-rule</link>
+    <guid>https://quartz.jzhao.xyz/Ph-D/%E5%AF%A6%E9%A9%97%E8%A6%8F%E5%8A%83/Pooling-rule</guid>
+    <description><![CDATA[ Pooling rule 用途 減少實驗規劃中的變數數量 原則1. ]]></description>
+    <pubDate>Fri, 03 Apr 2026 00:07:36 GMT</pubDate>
+  </item><item>
     <title>Overfitting &amp; udnerfitting</title>
     <link>https://quartz.jzhao.xyz/software/Programming/Overfitting--and--udnerfitting</link>
     <guid>https://quartz.jzhao.xyz/software/Programming/Overfitting--and--udnerfitting</guid>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/%5BPINN%5D--DED-Simulation-(3D-case)</guid>
     <description><![CDATA[ Governing Equations 1. ]]></description>
     <pubDate>Thu, 12 Feb 2026 15:38:05 GMT</pubDate>
-  </item><item>
-    <title>AI 工具</title>
-    <link>https://quartz.jzhao.xyz/software/Programming/AI-%E5%B7%A5%E5%85%B7</link>
-    <guid>https://quartz.jzhao.xyz/software/Programming/AI-%E5%B7%A5%E5%85%B7</guid>
-    <description><![CDATA[ AI 工具 會議工具 Granola AI會議筆記工具，自動記錄、轉錄會議內容並整理成重點筆記，節省會後整理時間。 Wispr Flow 全應用程式適用的即時語音轉文字工具，讓您在任何程式中都能使用語音輸入。 [Chrome + ViiTor ] 利用 chrome 開啟 teams 會議室，並且利用chrome 外掛 viitor 及時翻譯語音，比起原本內建的翻譯，可以複製下載翻譯後的文字(雙語) 圖表 Napkin 音樂 Mubert Data version control dvc.org/ 用來管理使用在訓練模型的資料，包含影像、圖片、影片、文字檔案等 AI Benchmark www... ]]></description>
-    <pubDate>Tue, 10 Feb 2026 23:55:20 GMT</pubDate>
-  </item><item>
-    <title>DED &amp; SINDy</title>
-    <link>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/DED--and--SINDy</link>
-    <guid>https://quartz.jzhao.xyz/Ph-D/1st-semester/%E7%A0%94%E7%A9%B6%E7%AD%86%E8%A8%98/DED--and--SINDy</guid>
-    <description><![CDATA[ DED &amp; SINDy the questions you should answer Manufacturing Context : 目前製造方法中使用DED 的應用情況? Data Type: 你要使用什麼樣的資料來處理? 你利用那些資料來做為訓練或解析之用? 這些資料的品質如何? 資料的類型有什麼? Data source (experiment / simulation) sample size or data volume data collection method noise level Process Parameters: 製程中的那些參數是你在意的? Methodo... ]]></description>
-    <pubDate>Sun, 01 Feb 2026 21:58:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
