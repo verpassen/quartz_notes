@@ -2,12 +2,11 @@
 title: '[Reading notes] Process Analysis of laser beam cladding'
 updated: 2025-04-20 03:28:47Z
 created: 2023-10-12 14:35:11Z
-latitude: 22.63527800
-longitude: 120.34832900
-altitude: 0.0000
+ 
 tags:
   - laser cladding
-  - lmd
+  - laser metal deposition
+  - 
 ---
 
 [Reading notes] Process Analysis of laser beam cladding

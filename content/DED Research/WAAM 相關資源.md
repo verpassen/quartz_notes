@@ -1,10 +1,8 @@
 ---
 title: WAAM 相關資源
-updated: 2024-12-29 00:32:20Z
-created: 2023-10-19 12:47:12Z
-latitude: 22.64839560
-longitude: 120.32620850
-altitude: 0.0000
+updated: 2024-12-29  
+created: 2023-10-19  
+ 
 tags:
   - resources
   - waam

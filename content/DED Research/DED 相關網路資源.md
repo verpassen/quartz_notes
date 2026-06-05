@@ -1,10 +1,10 @@
 ---
 title: DED 人員的教育訓練資料
-updated: 2026-02-15 01:01:19Z
-created: 2024-07-13 00:29:54Z
-latitude: 22.63527800
-longitude: 120.34832900
-altitude: 0.0000
+updated: 2026-02-15  
+created: 2024-07-13  
+tags: 
+ - resources
+ - DED Training
 ---
 
 DED 人員的教育訓練資料

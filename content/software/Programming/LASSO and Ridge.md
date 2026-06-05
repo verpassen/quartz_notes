@@ -2,9 +2,7 @@
 title: 'LASSO and Ridge '
 updated: 2026-04-01 14:03:29Z
 created: 2024-08-19 13:25:19Z
-latitude: 25.03577500
-longitude: 121.56345030
-altitude: 0.0000
+ 
 tags:
   - machine learning
 ---

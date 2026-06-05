@@ -2,9 +2,7 @@
 title: Overfitting & udnerfitting
 updated: 2026-04-02 05:01:41Z
 created: 2024-11-09 14:07:18Z
-latitude: 22.55197590
-longitude: 120.54875970
-altitude: 0.0000
+ 
 tags:
   - machine learning
   - overfitting

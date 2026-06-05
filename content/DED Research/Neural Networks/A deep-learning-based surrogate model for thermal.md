@@ -2,10 +2,11 @@
 title: >-
   A deep-learning-based surrogate model for thermal signature prediction in
   laser 
-updated: 2026-05-24 15:25:12Z
-created: 2024-12-12 07:48:00Z
+updated: 2026-05-24  
+created: 2024-12-12  
 tags:
   - deep learning
+  - surrogate model
 ---
 
 ## A deep-learning-based surrogate model for thermal signature prediction in laser metal deposition 

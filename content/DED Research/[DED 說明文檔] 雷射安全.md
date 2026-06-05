@@ -1,10 +1,9 @@
 ---
 title: '[DED 說明文檔] 雷射安全'
-updated: 2025-12-16 00:46:46Z
-created: 2024-04-20 13:38:39Z
-latitude: 25.03577500
-longitude: 121.56345030
-altitude: 0.0000
+updated: 2025-12-16  
+created: 2024-04-20  
+tags: 
+ - laser safety 
 ---
 
 [DED 說明文檔] 雷射安全 Laser Safty

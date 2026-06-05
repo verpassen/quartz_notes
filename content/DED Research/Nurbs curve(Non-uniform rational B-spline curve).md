@@ -1,10 +1,8 @@
 ---
 title: Nurbs curve(Non-uniform rational B-spline curve)
-updated: 2026-01-12 05:34:03Z
-created: 2024-12-29 06:51:17Z
-latitude: 22.64839560
-longitude: 120.32620850
-altitude: 0.0000
+updated: 2026-01-12  
+created: 2024-12-29 
+ 
 tags:
   - nurbs curve
 ---

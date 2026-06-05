@@ -2,9 +2,7 @@
 title: DFAM Methodology
 updated: 2026-05-17 00:59:51Z
 created: 2024-03-14 02:55:05Z
-latitude: 22.63527800
-longitude: 120.34832900
-altitude: 0.0000
+ 
 tags:
   - mechanical design
   - topology

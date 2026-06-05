@@ -1,10 +1,7 @@
 ---
 title: Maragoni effect
-updated: 2026-01-18 00:46:49Z
-created: 2023-11-19 02:15:13Z
-latitude: 22.64839560
-longitude: 120.32620850
-altitude: 0.0000
+updated: 2026-01-18  
+created: 2023-11-19  
 tags:
   - fluid dynamics
   - surface tension
